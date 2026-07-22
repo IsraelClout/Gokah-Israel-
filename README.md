@@ -72,7 +72,6 @@ h2{font-size:1.3rem;color:#60a5fa;margin-bottom:15px;text-align:left}
 
 <!-- HEADER WITH LOGO -->
 <header class="app-header">
-    <img src=" Screenshot_20260717-224624 (1).png" width="20" height="100" alt="Clout TECH Logo" class="logo">
     <img src="Snapchat-913655823.jpg" alt="Gokah Israel" class="profile-pic">
     <h2>Gokah Israel Ewoenam</h2>
     <p>Web Developer</p>
